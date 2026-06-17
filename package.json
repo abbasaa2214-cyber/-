@@ -1,0 +1,16 @@
+{
+  "name": "retirement-calculator",
+  "version": "1.0.0",
+  "description": "حاسبة الراتب التقاعدي العراقي - تطبيق أندرويد",
+  "scripts": {
+    "sync": "npx cap sync",
+    "open:android": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/core": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.0.0"
+  }
+}

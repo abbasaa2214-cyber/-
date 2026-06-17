@@ -1,0 +1,13 @@
+{
+  "appId": "com.abbasaliaziz.retirementcalc",
+  "appName": "حاسبة الراتب التقاعدي",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#0a1628",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
